@@ -1,0 +1,23 @@
+/* Home.css */
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Center vertically */
+  text-align: center;
+  background-color: #f4f4f4; /* Light gray background */
+}
+
+.home h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 1.5rem;
+  color: #333; /* Darker text color */
+}
+.home button {
+  margin: 10px auto;
+}

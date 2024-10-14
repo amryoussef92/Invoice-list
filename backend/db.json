@@ -1,0 +1,72 @@
+{
+  "units": [
+    {
+      "unitNo": 1,
+      "unitName": "Kilogram"
+    },
+    {
+      "unitNo": 2,
+      "unitName": "Liter"
+    },
+    {
+      "unitNo": 3,
+      "unitName": "Piece"
+    }
+  ],
+  "invoicedetails": [
+    {
+      "id": 1,
+      "productName": "Milk",
+      "unitNo": 2,
+      "price": 1.2,
+      "quantity": 20,
+      "total": 24,
+      "expiryDate": "2024-10-15"
+    },
+    {
+      "id": 2,
+      "productName": "Pen",
+      "unitNo": 3,
+      "price": "0.4",
+      "quantity": "101",
+      "total": 40,
+      "expiryDate": "2025-01-01"
+    },
+    {
+      "id": 4,
+      "productName": "product",
+      "unitNo": "2",
+      "price": "1",
+      "quantity": "1",
+      "total": 0,
+      "expiryDate": "2024-09-29"
+    },
+    {
+      "id": 1727608819849,
+      "productName": "yasser",
+      "unitNo": 1,
+      "price": 2,
+      "quantity": 2,
+      "total": 2,
+      "expiryDate": "2024-09-23"
+    },
+    {
+      "id": "1727608906404",
+      "productName": "fock",
+      "unitNo": "1",
+      "price": 1,
+      "quantity": 2,
+      "total": 2,
+      "expiryDate": "2024-09-22"
+    },
+    {
+      "id": "1727609180370",
+      "productName": "aq",
+      "unitNo": "1",
+      "price": 2,
+      "quantity": 2,
+      "total": 2,
+      "expiryDate": "2024-09-09"
+    }
+  ]
+}
